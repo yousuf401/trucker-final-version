@@ -1,0 +1,23 @@
+.laxfy-main {
+  gap: 10px;
+  border: 1px solid #212121;
+  padding: 12px 35px;
+  width: 189px;
+  height: 50px;
+  border-radius: 50px;
+}
+.laxfy-main .laxfy-text {
+  font-family: "Hanken Grotesk", sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0%;
+  text-align: center;
+  text-transform: capitalize;
+  color: white;
+}
+.laxfy-main:hover {
+  background: linear-gradient(266.27deg, #CCFF02 7.19%, #68FFB3 98.22%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
